@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+nova_lekcija_klase/
 
 # Spyder project settings
 .spyderproject
