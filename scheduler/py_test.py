@@ -1,4 +1,12 @@
 
+def funkcija(parametar):
+    print(parametar)
+
+
+
+
+
+
 class Primjer:
     def metoda(self):
         print('Pozdrav')
